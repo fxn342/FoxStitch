@@ -4,7 +4,7 @@ Discord:
 
       https://discord.gg/NpEE3hwz
 
-Stitches together Foxhole region maps into one worldmap. Region maps provided by the Foxhole API.
+Stitches together Foxhole region maps into one worldmap. Region maps provided by the Foxhole API and converted over to PNG.
 
       https://github.com/clapfoot/warapi
 
