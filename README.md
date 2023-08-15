@@ -14,11 +14,11 @@ Instructions:
 
 Argument 1
 
-      Generate region hexagon borders
+      Generate region hexagon borders either "y" or "n"
 
 Argument 2
 
-      Line thickness of hexagon borders
+      Line thickness of hexagon borders recommend values 1 through 5
 
 The below will generate the world map with hexagons with a line thickness of 4.
 
