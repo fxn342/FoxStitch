@@ -11,6 +11,8 @@ fxRegionMaps = (
     (12, "\\res\\maps\\MapStonecradleHex.png"),
     (13, "\\res\\maps\\MapFarranacCoastHex.png"),
     (14, "\\res\\maps\\MapWestgateHex.png"),
+    (15, "\\res\\maps\\MapFishermansRowHex.png"),
+    (16, "\\res\\maps\\MapOarbreakerHex.png"),
     (17, "\\res\\maps\\MapGreatMarchHex.png"),
     (18, "\\res\\maps\\MapTempestIslandHex.png"),
     (19, "\\res\\maps\\MapGodcroftsHex.png"),
@@ -36,12 +38,10 @@ fxRegionMaps = (
     (42, "\\res\\maps\\MapOriginHex.png"),
     (43, "\\res\\maps\\MapSableportHex.png"),
     (44, "\\res\\maps\\MapKingsCageHex.png"),
-    (45, "\\res\\maps\\MapOarbreakerHex.png"),
-    (46, "\\res\\maps\\MapFishermansRowHex.png"),
-    (47, "\\res\\maps\\MapStemaLandingHex.png"),
-    (48, "\\res\\maps\\MapGodcroftsHex.png"),
-    (49, "\\res\\maps\\MapTempestIslandHex.png"),
-    (50, "\\res\\maps\\MapTheFingersHex.png")
+    (45, "\\res\\maps\\MapStlicanShelfHex.png"),
+    (46, "\\res\\maps\\MapClahstraHex.png"),
+    (47, "\\res\\maps\\MapReaversPassHex.png"),
+    (48, "\\res\\maps\\MapStemaLandingHex.png")
 )
 
 fxRegionPositions = {
@@ -58,9 +58,9 @@ fxRegionPositions = {
     (13): [0.75,2.5],
     (14): [0.75,3.5],
     (17): [3,5],
-    (18): [5.25,3.5],
-    (19): [5.25,2.5],
-    (20): [4.5,3],
+    (20): [5.25,3.5],
+    (45): [5.25,2.5],
+    (46): [4.5,3],
     (21): [4.5,4],
     (22): [4.5,2],
     (23): [3.75,3.5],
@@ -75,19 +75,19 @@ fxRegionPositions = {
     (35): [3.75,0.5],
     (36): [4.5,1],
     (37): [5.25,1.5],
-    (38): [5.25,4.5],
+    (47): [5.25,4.5],
     (39): [4.5,5],
     (40): [3.0,6],
     (41): [1.5,5],
     (42): [0.75,4.5],
     (43): [1.5,4],
     (44): [1.5,3],
-    (45): [0,2],
-    (46): [0,3],
-    (47): [0,4],
-    (48): [6,2],
-    (49): [6,3],
-    (50): [6,4]
+    (16): [0,2],
+    (15): [0,3],
+    (48): [0,4],
+    (19): [6,2],
+    (18): [6,3],
+    (38): [6,4]
 }
 
 fxRegionHexBorderPercentages = [(25,0),(75,0),(100,50),(75,100),(25,100),(0,50)]
