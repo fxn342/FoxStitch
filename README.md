@@ -32,9 +32,9 @@ Output:
 
 Example Output (with hexagon borders):
 
-![259288964-4655fe56-7573-433c-87bf-9739a316d28c](https://github.com/foxholenoob/FoxStitchPy/assets/141661840/26799485-2309-4fb2-bd53-919d12bd4fe7)
-
+![foxhole-worldmap-about-resized-hex-border](https://github.com/foxholenoob/FoxStitch/assets/141661840/03b3a79e-d2c5-4588-8384-2da8b7c5b1e1)
 
 Example Output (without hexagon borders):
 
-![259289124-a6130bd1-bb0f-428f-980f-610397594374](https://github.com/foxholenoob/FoxStitchPy/assets/141661840/f55d132d-ff83-416c-b8b6-cec0ce1249e5)
+![foxhole-worldmap-about-resized-no-hex-border](https://github.com/foxholenoob/FoxStitch/assets/141661840/1fafbdc1-df14-408e-9be1-1e39a29b613d)
+
