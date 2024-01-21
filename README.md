@@ -21,9 +21,9 @@ Argument 1
 
 Argument 2
 
-      Line thickness of hexagon borders recommend values 1 through 5
+      Line thickness of hexagon borders recommend values 1 through 6
 
-The below will generate the world map with hexagons with a line thickness of 4.
+The below will generate the world map with hexagons with a line thickness of 6.
 
 Usage:
 
