@@ -1,7 +1,7 @@
 # FoxStitchPy
 Foxhole World Map Stitch
 
-Updated for Release 55 of Foxhole
+Updated for Release 56 of Foxhole
 
 Discord: 
 
