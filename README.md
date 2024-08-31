@@ -1,11 +1,7 @@
 # FoxStitchPy
 Foxhole World Map Stitch
 
-Updated for Release 56 of Foxhole
-
-Discord: 
-
-      https://discord.gg/NpEE3hwz
+Updated for Release 57 of Foxhole
 
 Stitches together Foxhole region maps into one worldmap. Region maps provided by the Foxhole API and converted over to PNG.
 
