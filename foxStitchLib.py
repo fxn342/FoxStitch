@@ -39,7 +39,7 @@ fxRegionMaps = (
     (43, "\\res\\maps\\MapSableportHex.png"),
     (44, "\\res\\maps\\MapKingsCageHex.png"),
     (45, "\\res\\maps\\MapStlicanShelfHex.png"),
-    (46, "\\res\\maps\\MapClahstraHex.png"),
+    (46, "\\res\\maps\\MapClahstraHexMap.png"),
     (47, "\\res\\maps\\MapReaversPassHex.png"),
     (48, "\\res\\maps\\MapStemaLandingHex.png")
 )
