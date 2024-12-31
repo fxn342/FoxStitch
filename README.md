@@ -27,7 +27,7 @@ Usage:
 
 Output:
 
-      Note: This will output an image at the raw size of 5632x6216. You can then adjust this size via MsPaint or your preferred image editing program.
+      Note: This will output an image at the raw size of 7168x6216. You can then adjust this size via MsPaint or your preferred image editing program.
 
 Example Output (with hexagon borders):
 
