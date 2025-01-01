@@ -2,6 +2,7 @@
 Foxhole World Map Stitch
 
 Updated for Release 59 of Foxhole
+
 (Note: A current fullsize map is located in the /output/ folder of the project)
 
 Stitches together Foxhole region maps into one worldmap. Region maps provided by the Foxhole API and converted over to PNG.
